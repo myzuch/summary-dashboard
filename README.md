@@ -17,5 +17,5 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Demo
-Check out the demo here: myzuch.github.io/summary-dashboard
+Check out the demo here: [http://myzuch.github.io/summary-dashboard/]
 
